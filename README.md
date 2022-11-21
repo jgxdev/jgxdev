@@ -1,4 +1,4 @@
-<img src="https://github.com/jgxdev/jgxdev/blob/main/web-technologies-4k-wallpaper.png"
+<img src="https://github.com/jgxdev/jgxdev/blob/main/header_jgxdev_github.png"
      alt="Header jgx Dev"
      style="float: left; margin-right: 10px; height:200px" />
 
