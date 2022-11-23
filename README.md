@@ -3,10 +3,10 @@
      style="float: left; margin-right: 10px; height:200px" />
 
 
-- 👋 Hi, I’m @jgxdev
+- 👋 Hi, I’m @jgxdev (José Germán Martínez)
 - 👀 I’m interested in web aplications
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on tennis organizations
+- 🌱 I’m currently learning the stack in javascript (NodeJS, ReactJS, AngularJS, Vue).
+- 💞️ I’m looking to collaborate on automations projects.
 - 📫 How to reach me jgxdev@gmail.com
 
 <!---
